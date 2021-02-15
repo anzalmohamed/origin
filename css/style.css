@@ -1,0 +1,12 @@
+h1 {
+    color: chartreuse;
+    margin: 0cm;
+}
+li {
+    color: brown;
+    font-style: normal;
+}
+.hobbies {
+    float: right;
+    background-color: yellow;
+}
